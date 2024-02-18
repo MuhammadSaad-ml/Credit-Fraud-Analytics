@@ -22,7 +22,7 @@ Files
 - **Search By Customer Segment**: Results will be displayed based on customer segment.
 
   <pre>
-  Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Cre</a>
+  Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Cred</a>
 </pre>
 
 ## Steps
