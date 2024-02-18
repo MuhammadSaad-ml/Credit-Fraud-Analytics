@@ -1,9 +1,10 @@
 <img src="https://img.shields.io/badge/Data Speaks-yellow"><img src="https://img.shields.io/badge/Build_With-Tableau-red"><img src="https://img.shields.io/badge/Python-indigo"><img src="https://img.shields.io/badge/Credit Card Analytics-pink"><img src="https://img.shields.io/badge/VsCode-teal"><img src="https://img.shields.io/badge/Data Analysis-white"><img src="https://img.shields.io/badge/Dashboard-gold"><img src="https://img.shields.io/badge/Data Cleaning-blue"><img src="https://img.shields.io/badge/Report-purple"><img src="https://img.shields.io/badge/Data  Visualization-brown"><img src="https://img.shields.io/badge/Data Manipulation-orange">
 
 # Credit Fraud  Analytics
-<!-- 
-## CLICK ON IMAGE TO OPEN YOUTUBE DEMO
-[![Click to watch YouTube demo](https://img.youtube.com/vi/wVqM_2mCdIk/0.jpg)](https://www.youtube.com/watch?v=wVqM_2mCdIk) -->
+
+ ## CLICK ON IMAGE TO OPEN YOUTUBE DEMO
+[![Click to watch YouTube demo](https://img.youtube.com/vi/wVqM_2mCdIk/0.jpg)](https://www.youtube.com/watch?v=wVqM_2mCdIk)
+
 
 <pre>
 
