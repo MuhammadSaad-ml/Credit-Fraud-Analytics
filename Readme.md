@@ -18,8 +18,8 @@ Files
 
 ## Features
 
-- **Search By Market**: Results will be displayed based on different markets of data. 
-- **Search By Customer Segment**: Results will be displayed based on customer segment.
+- **Search By State**: Results will be displayed based on different markets of data. 
+- **Search By M**: Results will be displayed based on customer segment.
 
   <pre>
   Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Credit Card Data</a>
