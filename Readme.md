@@ -18,7 +18,7 @@ Files
 
 ## Features
 
-- **Search By State**: Results will be displayed based on different st of data. 
+- **Search By State**: Results will be displayed based on different sta of data. 
 - **Search By Maps**: Results will be displayed based on customer segment.
 
   <pre>
