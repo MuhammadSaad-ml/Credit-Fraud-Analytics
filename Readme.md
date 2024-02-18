@@ -19,7 +19,7 @@ Files
 ## Features
 
 - **Search By State**: Results will be displayed based on different state of data. 
-- **Search By Maps**: Results will be displayed based on customer seg.
+- **Search By Maps**: Results will be displayed based on customer se.
 
   <pre>
   Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Credit Card Data</a>
