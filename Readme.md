@@ -22,7 +22,7 @@ Files
 - **Search By Customer Segment**: Results will be displayed based on customer segment.
 
   <pre>
-  Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Credit Card</a>
+  Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Credit Card D</a>
 </pre>
 
 ## Steps
